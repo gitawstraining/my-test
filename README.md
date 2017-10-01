@@ -1,2 +1,2 @@
-# my-test
-my first repo
+This is my readme file
+Welcome to Git Training!!
